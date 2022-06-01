@@ -1,4 +1,4 @@
-# Imersão Dados 4 - Alura
+# Imersão Dados 4
 
 Data: 23 a 27 de Maio de 2022
 
